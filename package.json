@@ -1,0 +1,11 @@
+{
+  "name": "appmaindir",
+  "version": "1.0.0",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
